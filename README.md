@@ -1,0 +1,1 @@
+A full-stack web application for discovering and curating public domain images and videos from trusted sources like the Library of Congress, Wikimedia Commons, and the Internet Archive. The project provides a modern, user-friendly interface for browsing, searching, and exporting media, along with a developer API for programmatic access.
